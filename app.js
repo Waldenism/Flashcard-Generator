@@ -6,6 +6,7 @@ var marvel = new BasicCard("What comicbook studio created the X-Men?", "Marvel")
 console.log(marvel.front);
 console.log(marvel.back);
 
+// console.log(BasicCard);
 var mario = new ClozeCard("Super Mario Bros. ended the videogame crash", "Mario");
 
 console.log(mario.fullText);
