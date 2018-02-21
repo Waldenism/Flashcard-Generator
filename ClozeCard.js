@@ -1,6 +1,5 @@
-
 function ClozeCard(text, cloze) {
-	
+
     this.fullText = text;
     this.cloze = cloze;
   if (this instanceof ClozeCard) {
